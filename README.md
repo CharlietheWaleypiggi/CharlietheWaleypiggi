@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript and c++
 - 💞️ I’m looking to collaborate on my plans for projects
-- 📫 How to reach me waleypiggithe2@gmail.com
+- 📫 Reach me at waleypiggithe2@gmail.com or @CharlietheWaley on twitter
 
 <!---
 CharlietheWaleypiggi/CharlietheWaleypiggi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
